@@ -1,3 +1,3 @@
-import test_module
+import test_modul
 
 print('git')
